@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\bin\Debug\netcoreapp3.1\EmplooyeAvarage.exe
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\bin\Debug\netcoreapp3.1\EmplooyeAvarage.deps.json
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\bin\Debug\netcoreapp3.1\EmplooyeAvarage.runtimeconfig.json
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\bin\Debug\netcoreapp3.1\EmplooyeAvarage.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\bin\Debug\netcoreapp3.1\EmplooyeAvarage.dll
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\bin\Debug\netcoreapp3.1\EmplooyeAvarage.pdb
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\obj\Debug\netcoreapp3.1\EmplooyeAvarage.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\obj\Debug\netcoreapp3.1\EmplooyeAvarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\obj\Debug\netcoreapp3.1\EmplooyeAvarage.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\obj\Debug\netcoreapp3.1\EmplooyeAvarage.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\obj\Debug\netcoreapp3.1\EmplooyeAvarage.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\obj\Debug\netcoreapp3.1\EmplooyeAvarage.dll
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\obj\Debug\netcoreapp3.1\EmplooyeAvarage.pdb
+C:\Users\User\Desktop\Materials\Delegates\Employee_Salary_Avarage\EmplooyeAvarage\EmplooyeAvarage\obj\Debug\netcoreapp3.1\EmplooyeAvarage.genruntimeconfig.cache

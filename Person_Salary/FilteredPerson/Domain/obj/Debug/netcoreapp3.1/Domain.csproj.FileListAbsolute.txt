@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

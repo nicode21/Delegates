@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\bin\Debug\netcoreapp3.1\DelegateTraining.exe
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\bin\Debug\netcoreapp3.1\DelegateTraining.deps.json
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\bin\Debug\netcoreapp3.1\DelegateTraining.runtimeconfig.json
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\bin\Debug\netcoreapp3.1\DelegateTraining.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\bin\Debug\netcoreapp3.1\DelegateTraining.dll
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\bin\Debug\netcoreapp3.1\DelegateTraining.pdb
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\obj\Debug\netcoreapp3.1\DelegateTraining.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\obj\Debug\netcoreapp3.1\DelegateTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\obj\Debug\netcoreapp3.1\DelegateTraining.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\obj\Debug\netcoreapp3.1\DelegateTraining.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\obj\Debug\netcoreapp3.1\DelegateTraining.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\obj\Debug\netcoreapp3.1\DelegateTraining.dll
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\obj\Debug\netcoreapp3.1\DelegateTraining.pdb
+C:\Users\User\Desktop\Materials\Delegates\Delegate Training\DelegateTraining\DelegateTraining\obj\Debug\netcoreapp3.1\DelegateTraining.genruntimeconfig.cache

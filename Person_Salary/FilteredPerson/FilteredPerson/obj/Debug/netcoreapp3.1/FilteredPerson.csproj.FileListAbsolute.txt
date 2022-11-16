@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\bin\Debug\netcoreapp3.1\FilteredPerson.exe
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\bin\Debug\netcoreapp3.1\FilteredPerson.deps.json
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\bin\Debug\netcoreapp3.1\FilteredPerson.runtimeconfig.json
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\bin\Debug\netcoreapp3.1\FilteredPerson.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\bin\Debug\netcoreapp3.1\FilteredPerson.dll
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\bin\Debug\netcoreapp3.1\FilteredPerson.pdb
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\obj\Debug\netcoreapp3.1\FilteredPerson.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\obj\Debug\netcoreapp3.1\FilteredPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\obj\Debug\netcoreapp3.1\FilteredPerson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\obj\Debug\netcoreapp3.1\FilteredPerson.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\obj\Debug\netcoreapp3.1\FilteredPerson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\obj\Debug\netcoreapp3.1\FilteredPerson.dll
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\obj\Debug\netcoreapp3.1\FilteredPerson.pdb
+C:\Users\User\Desktop\Materials\Delegates\Person_Salary\FilteredPerson\FilteredPerson\obj\Debug\netcoreapp3.1\FilteredPerson.genruntimeconfig.cache
